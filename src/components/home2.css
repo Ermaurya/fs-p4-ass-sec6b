@@ -13,7 +13,7 @@
 			cursor: pointer;
 		}
 .firstsection{
-	background-image: url('https://i.pinimg.com/originals/72/3a/ec/723aec5c253f59638def837a3e489e0e.jpg');
+	background-image: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v1016-c-08_1-ksh6mza3.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=f584d8501c27c5f649bc2cfce50705c0');
 }
 		.background {
 			background: black;
@@ -107,10 +107,12 @@
 			font-family: 'Piazzolla', serif;
 			font-weight: bold;
 			font-size: 35px;
+			color: #fff;
 		}
 
 		.text-small {
 			font-size: 18px;
+			color: #fff;
 		}
 
 		.btn {
@@ -169,11 +171,12 @@
 			height: 14rem;
 			width: 100%;
 			display: flex;
-			justify-self: flex-start;
+			justify-content: space-around;
 			align-items: center;
 			text-align: flex-start;
 		  }
-		  .footer p{
+		  .footer img{
  font-size: medium;
  color: #fff;
+ height: 8rem;
 		  }

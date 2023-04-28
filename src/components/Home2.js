@@ -11,15 +11,19 @@ const Home2 = () => {
 				{/* <img src= "https.jpg" alt=''/> */}
 				<h2>Logo</h2>
 			</div>
-			
-		</ul>
-
-		<div className="rightNav">
-		<ul className="nav-list">
 			<li><a href="#web">Home</a></li>
 			<li><a href="#program">About</a></li>
 			<li><a href="#course">Menu</a></li>
 			<li><a href="#course">Product</a></li>
+			<li><a href="#course">Education</a></li>
+		</ul>
+
+		<div className="rightNav">
+		<ul className="nav-list">
+			<li><a href="#web">Contact</a></li>
+			<li><a href="#program">Login</a></li>
+			<li><a href="#course">Signup</a></li>
+			
 		</ul>
 
 		</div>
@@ -28,21 +32,15 @@ const Home2 = () => {
 	<section className="firstsection">
 		<div className="box-main">
 			<div className="firstHalf">
-				<h1 className="text-big" id="web">Web Technology</h1>
+				<h1 className="text-big" id="web">See value From Social</h1>
 				<p className="text-small">
-					HTML stands for HyperText Markup Language.
-					It is used to design web pages using a markup
-					language. HTML is the combination of Hypertext
-					and Markup language. Hypertext defines the
-					link between the web pages. A markup language
-					is used to define the text document within tag
 					which defines the structure of web pages.
-					HTML is a markup language that is used by the
+					HTML is a markup language that is <br/>used by the
 					browser to manipulate text, images, and other
 					content to display it in the required format.
 				</p>
 
-
+                <button className='button btn'>Request</button>
 			</div>
 		</div>
 	</section>
