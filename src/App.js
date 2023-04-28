@@ -6,7 +6,8 @@ import './App.css';
 // import Appjs from './components/DidUpdate';
 // import Assa from './components/Assa';
 // import Card from './components/Card'
-import Card2 from './components/Card2';
+// import Card2 from './components/Card2';
+import Homepage from './components/Homepage';
 // import Assstwo from './components/Assstwo';
 function App( props) {
   return (
@@ -21,7 +22,8 @@ function App( props) {
       {/* <Assa/> */}
       {/* <Card/> */}
       {/* <Assstwo/> */}
-      <Card2/>
+      {/* <Card2/> */}
+      <Homepage/>
     </div>
   );
 }
