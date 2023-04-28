@@ -5,7 +5,8 @@ import './App.css';
 // import Usingdidmount from './components/DidMount'
 // import Appjs from './components/DidUpdate';
 // import Assa from './components/Assa';
-import Card from './components/Card'
+// import Card from './components/Card'
+import Card2 from './components/Card2';
 // import Assstwo from './components/Assstwo';
 function App( props) {
   return (
@@ -18,8 +19,9 @@ function App( props) {
       {/* <Usingdidmount/> */}
       {/* <Appjs/> */}
       {/* <Assa/> */}
-      <Card/>
+      {/* <Card/> */}
       {/* <Assstwo/> */}
+      <Card2/>
     </div>
   );
 }
