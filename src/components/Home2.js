@@ -1,5 +1,6 @@
 import React from 'react'
 import'./home2.css'
+import Footer from './Footer'
 const Home2 = () => {
   return (
     <div>
@@ -47,7 +48,7 @@ const Home2 = () => {
 	</section>
 
 	
-
+<Footer/>
     </div>
   )
 }

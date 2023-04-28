@@ -13,7 +13,7 @@
 			cursor: pointer;
 		}
 .firstsection{
-	background-image: url('https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg');
+	background-image: url('https://i.pinimg.com/originals/72/3a/ec/723aec5c253f59638def837a3e489e0e.jpg');
 }
 		.background {
 			background: black;
@@ -164,3 +164,16 @@
 			justify-content: center;
 			color: white;
 		}
+		.footer{
+			background-color: #212121;
+			height: 14rem;
+			width: 100%;
+			display: flex;
+			justify-self: flex-start;
+			align-items: center;
+			text-align: flex-start;
+		  }
+		  .footer p{
+ font-size: medium;
+ color: #fff;
+		  }
