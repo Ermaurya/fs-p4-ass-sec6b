@@ -39,10 +39,10 @@
 .resume{
   display: flex;
   flex-direction: column;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
   padding: 20px;
-  text-align: start;
+  text-align: flex-start;
 }
 h1,h2,h3{
   font-size: 23px;
